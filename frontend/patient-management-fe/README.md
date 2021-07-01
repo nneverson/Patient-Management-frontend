@@ -25,6 +25,10 @@
 - React
 - React-Bootstrap
 - React-Search-input
+- Mysql
+- Springboot
+- Axios
+- Css, HTML, Javascript
 
 ## Major Hurdles
 
@@ -35,7 +39,9 @@
 - Expand the search query and create multiple filters for the search instead of just one.
 - Add authorization and special permission to clients
 - Add a more field so that more details for a patient can be viewed and added.
-- Reformat the form.
+- Reformat the form
+- Undo delete feature
+
 
 ## Contribution
 
