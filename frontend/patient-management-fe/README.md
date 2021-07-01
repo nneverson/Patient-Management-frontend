@@ -1,4 +1,4 @@
-# Patient Management Tool 
+# Patient Management Tool
 
 ## Installation Instructions
 
@@ -16,36 +16,33 @@
 
 - A user, business administrators would be able to search for a patient with a first name as a query.
 
-
 ## ScreenShots
 
-
-
-![Image of patient list](https://imgur.com/a/ld8gC7j)
-
+![Image of patient list](https://i.imgur.com/quq4frj.jpg)
 
 ## Technology Used
+
 - React
 - React-Bootstrap
 - React-Search-input
 
-
 ## Major Hurdles
 
-- Building a backend with Java and Springboot for the first time. 
+- Building a backend with Java and Springboot for the first time.
 
 ## Stretch Goals
+
 - Expand the search query and create multiple filters for the search instead of just one.
 - Add authorization and special permission to clients
 - Add a more field so that more details for a patient can be viewed and added.
 - Reformat the form.
 
+## Contribution
 
-## Contribution 
 This is the tutorial I used to create my patient management tool.
 
-- [React-Spring tutorial](https://youtube.com/playlist?list=PLGRDMO4rOGcNLnW1L2vgsExTBg-VPoZHr) 
+- [React-Spring tutorial](https://youtube.com/playlist?list=PLGRDMO4rOGcNLnW1L2vgsExTBg-VPoZHr)
 
-This is the npm package I used to add the search functionality to my project 
+This is the npm package I used to add the search functionality to my project
+
 - [react-search-input](https://www.npmjs.com/package/react-search-input)
-
